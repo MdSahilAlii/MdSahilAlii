@@ -1,92 +1,113 @@
 <div align="center">
   <img src="./banner.svg" width="100%" alt="Md Sahil Ali — Frontend Developer and Product Builder" />
+
+  <br />
+
+  <p><strong>Frontend Developer &nbsp;·&nbsp; Creative UI Engineer &nbsp;·&nbsp; Product Builder</strong></p>
+  <p>I build fast, thoughtful web experiences — from interactive interfaces to tools people actually use.</p>
+
+  <a href="https://mdsahil.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&amp;logo=vercel&amp;logoColor=08111F" alt="Visit my portfolio" /></a>
+  <a href="https://www.paperlane.world/"><img src="https://img.shields.io/badge/PAPERLANE-8B5CF6?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Explore Paperlane" /></a>
+  <a href="https://www.linkedin.com/in/mdsahilali/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:aksahil18@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1F2937?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me" /></a>
 </div>
 
 <br />
 
-<div align="center">
-  <a href="https://www.paperlane.world/"><img src="https://img.shields.io/badge/Explore_Paperlane-7C3AED?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Explore Paperlane" /></a>
-  <a href="https://www.linkedin.com/in/mdsahilali/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:aksahil18@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-14213D?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Md Sahil Ali" /></a>
-</div>
+## `01 / about_me`
 
-<br />
+I'm **Md Sahil Ali**, a Computer Science graduate who loves turning complex ideas into interfaces that feel simple. My main focus is **React and modern frontend engineering**, with a growing interest in motion, 3D experiences, and building complete products.
 
-## `> whoami`
+- 🚀 **Building:** [Paperlane](https://www.paperlane.world/) — free browser-based PDF and image tools.
+- 🎨 **Interested in:** clean UI, meaningful animation, responsive design, accessibility, and performance.
+- 🧩 **Beyond frontend:** hands-on projects with Express, MongoDB, APIs, and authentication.
+- 🌐 **Explore my work:** **[mdsahil.vercel.app](https://mdsahil.vercel.app/)**
 
-I'm **Md Sahil Ali**, a Computer Science graduate and frontend developer focused on building useful, responsive, and thoughtfully designed experiences for the web.
-
-I enjoy taking something that feels complicated and turning it into a product that feels simple. My work spans **React interfaces, browser-based tools, performance-focused websites, and practical product ideas**.
-
-- **Currently building:** [Paperlane](https://www.paperlane.world/) — everyday document and image tools for the browser.
-- **I care about:** intuitive UI, accessibility, speed, and the details that make software enjoyable.
-- **Let's collaborate on:** frontend projects, developer tools, and useful web products.
-
-## `> selected_projects`
+## `02 / featured_work`
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>📄 Paperlane</h3>
-      <p>My browser-first toolkit for working with PDFs and everyday files — built around simple workflows, privacy-conscious design, and a fast user experience.</p>
-      <p><a href="https://www.paperlane.world/"><strong>Visit Paperlane ↗</strong></a></p>
+      <p>A privacy-minded, browser-first toolkit for PDFs and everyday files. Designed to make document workflows quick, clear, and accessible.</p>
+      <p><strong>React · Vite · Tailwind CSS · Browser APIs</strong></p>
+      <a href="https://www.paperlane.world/">Live website ↗</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛒 Cartify</h3>
-      <p>An ecommerce-themed web project focused on presenting a polished, accessible shopping interface.</p>
-      <p><a href="https://cartify-site.vercel.app/"><strong>View live project ↗</strong></a></p>
+      <h3>✦ Personal Portfolio</h3>
+      <p>A more expressive introduction to my work, blending interactive sections, motion, and carefully considered visual details.</p>
+      <p><strong>React · Framer Motion · GSAP · Spline</strong></p>
+      <a href="https://mdsahil.vercel.app/">Live website ↗</a> &nbsp;·&nbsp; <a href="https://github.com/MdSahilAlii/Portfolio-Website">Source code ↗</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Webcreation</h3>
-      <p>A deployed web project that reflects my interest in clean layouts and engaging frontend experiences.</p>
-      <p><a href="https://webcreation-site.vercel.app/"><strong>View live project ↗</strong></a></p>
+      <h3>🛒 Cartify</h3>
+      <p>A responsive shopping interface with reusable components and a smooth browsing flow.</p>
+      <p><strong>React · React Router · Tailwind CSS</strong></p>
+      <a href="https://cartify-site.vercel.app/">Live website ↗</a> &nbsp;·&nbsp; <a href="https://github.com/MdSahilAlii/cartify">Source code ↗</a>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ What I'm exploring</h3>
-      <p>More performant React apps, better browser-side tooling, search-friendly websites, and ways to make web products easier to use.</p>
-      <p><a href="https://github.com/MdSahilAlii?tab=repositories"><strong>Explore my repositories ↗</strong></a></p>
+      <h3>🌐 WebCreation</h3>
+      <p>A frontend project exploring practical, responsive pages with straightforward navigation and layouts.</p>
+      <p><strong>React · Vite · React Router</strong></p>
+      <a href="https://webcreation-site.vercel.app/">Live website ↗</a> &nbsp;·&nbsp; <a href="https://github.com/MdSahilAlii/WebCreation">Source code ↗</a>
     </td>
   </tr>
 </table>
 
-## `> tech_stack`
+**Other builds:** [3D Web Experiences](https://github.com/MdSahilAlii/3D-website) (Three.js / React Three Fiber) &nbsp;·&nbsp; [Leadbot AI](https://github.com/MdSahilAlii/leadbot-ai) (React / Recharts) &nbsp;·&nbsp; [Backend APIs](https://github.com/MdSahilAlii/Backend) (Express / MongoDB)
 
-**Frontend**
+## `03 / tech_stack`
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css&logoColor=1572B6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Vite](https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=646CFF)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Frontend & styling</strong><br /><br />
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,materialui,vite&amp;theme=dark&amp;perline=4" alt="HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Material UI and Vite" />
+      <p>React Router · Responsive Design · Component-driven UI</p>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Animation & creative coding</strong><br /><br />
+      <img src="https://skillicons.dev/icons?i=threejs,figma,css,js&amp;theme=dark&amp;perline=4" alt="Three.js, Figma, CSS and JavaScript" />
+      <p>Framer Motion · GSAP · React Three Fiber / Drei · Spline</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Backend & data</strong><br /><br />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&amp;theme=dark&amp;perline=4" alt="Node.js, Express, MongoDB and Firebase" />
+      <p>REST APIs · Mongoose · JWT · Recharts</p>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Developer workflow</strong><br /><br />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,npm&amp;theme=dark&amp;perline=4" alt="Git, GitHub, VS Code, Vercel, Postman and npm" />
+      <p>ESLint · Git-based workflows · Deployment & iteration</p>
+    </td>
+  </tr>
+</table>
 
-**Tools & deployment**
+<sub>Also exploring: TypeScript, React Native, and better ways to create immersive yet accessible web experiences.</sub>
 
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-111827?style=flat-square&logo=visualstudiocode&logoColor=22A7F2)
-![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white)
+## `04 / how_i_work`
 
-## `> the_way_i_build`
-
-```javascript
-const approach = {
-  design: "Clear, responsive, and accessible",
-  engineering: "Practical solutions over unnecessary complexity",
-  performance: "Fast by default",
-  mindset: "Build → test → improve → ship"
+```js
+const philosophy = {
+  design: "Make the complex feel effortless",
+  code: "Keep it readable, reusable, and maintainable",
+  experience: "Responsive, accessible, and fast",
+  process: ["Build", "Test", "Refine", "Ship"],
 };
 ```
 
----
-
 <div align="center">
-  <p><strong>Have a project in mind or want to connect?</strong></p>
-  <a href="https://www.linkedin.com/in/mdsahilali/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:aksahil18@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://www.paperlane.world/">Paperlane</a>
+  <hr />
+  <h3>Let's make something useful.</h3>
+  <p>Have an idea, a role, or an interesting project? I'd love to hear about it.</p>
+  <a href="https://mdsahil.vercel.app/"><strong>Portfolio</strong></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/mdsahilali/"><strong>LinkedIn</strong></a> &nbsp;·&nbsp;
+  <a href="mailto:aksahil18@gmail.com"><strong>Email</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/MdSahilAlii?tab=repositories"><strong>Repositories</strong></a>
   <br /><br />
-  <sub>Made with curiosity, clean code, and a lot of iteration.</sub>
+  <sub>Built with curiosity, care, and plenty of iteration.</sub>
 </div>
